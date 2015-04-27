@@ -1,0 +1,27 @@
+﻿table {
+    font-family: Arial,sans-serif;
+    font-size:12px;
+    border-collapse:collapse;
+    padding-right:5px;
+}
+
+table th {
+    font-weight:normal;
+    text-align:left;
+    background-color:#7bc214;
+    color:white;
+    height:22px;
+}
+th,td{
+    border-right:2px solid #e6dfdf;
+    width:150px;
+    padding:3px;
+}
+
+tr:nth-child(even){
+    background-color:#f2ebeb;
+}
+img{
+    vertical-align:middle;
+    padding-right:4px;
+}

@@ -1,0 +1,42 @@
+﻿table{
+    background-color:GrayText;
+    font-family:Arial, sans-serif;
+    font-size:11px;
+    color:#e5d8d8;
+}
+thead,tbody tr{
+    height:21px;
+}
+table th{
+    font-weight:normal;
+    font-size:16px;
+    color:#d3caca;
+    text-align:left;
+}
+
+tbody tr td:first-child{
+    font-style:italic;
+    width:100px;
+    color:#F9F5F1;
+}
+
+tbody tr td:nth-child(2n){
+    width:200px;
+}
+
+a{
+    text-decoration:none;
+    color:white;
+}
+#status{
+    color:orange;
+}
+
+#noActive{
+    color:#f61033;
+    vertical-align:top;
+}
+span{
+    color:#7cd76f;
+    font-size:x-large;
+}
